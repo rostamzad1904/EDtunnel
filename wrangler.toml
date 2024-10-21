@@ -5,7 +5,7 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [vars]
-# PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+PROXYIP = "khalijserver.com:443, nrp.co:443, irandata.ir:443, fireserver.ir:443, atrinnet.net:443, mobinnet.net:443, hostiran.net:443"
+UUID = "00d930e6-8a4b-4bee-ac6f-81c553d582e2"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
